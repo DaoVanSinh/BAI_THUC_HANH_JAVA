@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "Main.MainClass",
+            "projectName": "BAI_THUC_HANH_JAVA_2a79c7a"
+        },
+        {
+            "type": "java",
+            "name": "Hinhhoc",
+            "request": "launch",
+            "mainClass": "Hinh.Hinhhoc",
+            "projectName": "BAI_THUC_HANH_JAVA_2a79c7a"
+        },
+        {
+            "type": "java",
+            "name": "nhapxuat",
+            "request": "launch",
+            "mainClass": "nhapxuat",
+            "projectName": "BAI_THUC_HANH_JAVA_2a79c7a"
+        },
+        {
+            "type": "java",
             "name": "nhanvien",
             "request": "launch",
             "mainClass": "nhanvien",

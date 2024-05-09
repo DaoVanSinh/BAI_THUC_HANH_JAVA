@@ -7,35 +7,35 @@ public class Slide40Chuong2 {
 
         int n;
 
-        System.out.print("Nhap vao so ngay: ");
+        System.out.print(" Enter a date : ");
         n = sc.nextInt();
 
         switch (n) {
             case 1:
-                System.out.println("Chu nhat");
+                System.out.println("Sunday");
                 break;
             case 2:
-                System.out.println("Thu hai");
+                System.out.println("Monday");
                 break;
             case 3:
-                System.out.println("Thu ba");
+                System.out.println("Tuesday");
                 break;
             case 4:
-                System.out.println("Thu tu");
+                System.out.println("Wednesday");
                 break;
             case 5:
-                System.out.println("Thu nam");
+                System.out.println("Thursday");
                 break;
             case 6:
-                System.out.println("Thu sau");
+                System.out.println("Friday");
                 break;
             case 7:
-                System.out.println("Thu bay");
+                System.out.println("Saturday");
                 break;
             default:
-                System.out.println("Ngay ban nhap khong phai ngay trong tuan!");
+                System.out.println("You entered a different day of the week !");
                 break;
         }
         sc.close();
-    }
+     }
 }

@@ -17,4 +17,4 @@ public class Slide20Chuong4 {
             System.out.println(iterator.next() + "\t");
         }
     }
-}
+}   

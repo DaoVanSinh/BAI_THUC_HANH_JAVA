@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Slide88Chuong4",
+            "request": "launch",
+            "mainClass": "Slide88Chuong4",
+            "projectName": "BAI_THUC_HANH_JAVA_2a79c7a"
+        },
+        {
+            "type": "java",
             "name": "Slide86Chuong4",
             "request": "launch",
             "mainClass": "Slide86Chuong4",
